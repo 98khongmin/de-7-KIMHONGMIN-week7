@@ -1,0 +1,12 @@
+# 실행 산출물
+logs/
+output/
+_pycache_
+*.pyc
+
+# 실습 데이터
+data/
+
+# 자격증명
+*pem
+.DS_Store
