@@ -15,7 +15,7 @@ with DAG(
         "start_date": datetime(2025, 1, 1)
     },
     schedule="0 0 * * *",
-    catchup=False,
+    catchup=true,
 ) as dag:
 
     start = EmptyOperator(task_id="start")
