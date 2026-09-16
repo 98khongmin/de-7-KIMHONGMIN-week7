@@ -7,3 +7,4 @@
 
 ## 회고
 - Spark 클러스터를 Docker Compose로 구성하는 방법을 학습
+- Airflow 컨테이너 환경 구축 및 파이프라인 제어 방법을 실습함.
